@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-5cumpk=+yf0_jr*3&@v!zoo_pfumiowww%pbih$gw69vi&7rkz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['qr-code-generation-for-images.vercel.app', '127.0.0.1', 'localhost']
 
 
 # Application definition

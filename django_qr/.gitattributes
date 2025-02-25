@@ -3,6 +3,3 @@
 
 # Normalize line endings for other files
 * text=auto
-
-# Ignore virtual environment directory
-venv/ -text
